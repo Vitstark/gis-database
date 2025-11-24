@@ -1,0 +1,16 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+.flattened-pom.xml
+*/target/
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### Spring Boot ###
+#config
+logs/
+*/config/
+/config/
+*/allure-results/
