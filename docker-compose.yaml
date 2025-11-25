@@ -14,6 +14,11 @@ services:
     container_name: liquibase
     volumes:
       - ./database/schema:/liquibase/changelog
-    command: --url=jdbc:postgresql://postgres:5432/postgres --username=postgres --password=postgres --changeLogFile=db/changelog/changelog.xml update
+    command: >
+      --url=jdbc:postgresql://postgres:5432/postgres
+      --username=postgres
+      --password=postgres
+      --changeLogFile=changelog/changelog.xml
+      update
     depends_on:
       - postgres
