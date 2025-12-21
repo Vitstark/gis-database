@@ -1,0 +1,14 @@
+POST http://localhost:8080/loadCadastralNumbers
+Content-Type: multipart/form-data; boundary=boundary
+Content-Disposition: form-data; name="file"; filename="file.csv"
+
+--boundary
+Content-Disposition: form-data; name="file"; filename="file.csv"
+Content-Type: text/csv
+
+< ./file.csv
+--boundary--
+
+###
+
+POST http://localhost:8080/updateCadastralInfo
