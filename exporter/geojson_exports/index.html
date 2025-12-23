@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GeoJSON Exports - Download Center</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .file-card {
+            transition: transform 0.2s;
+        }
+        .file-card:hover {
+            transform: translateY(-2px);
+        }
+        .download-icon {
+            width: 20px;
+            height: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container mt-5 mb-5">
+        <div class="row">
+            <div class="col-12">
+                <h1 class="display-4 mb-4">GeoJSON Exports</h1>
+                <p class="lead text-muted mb-5">Download cadastral data in GeoJSON format</p>
+            </div>
+        </div>
+
+        <!-- All Cadastral Data -->
+        <div class="row mb-4">
+            <div class="col-12">
+                <h2 class="h4 mb-3">All Data</h2>
+                <div class="card file-card mb-3">
+                    <div class="card-body">
+                        <div class="d-flex justify-content-between align-items-center">
+                            <div>
+                                <h5 class="card-title mb-1">Complete Cadastral Data</h5>
+                                <p class="card-text text-muted mb-0">All cadastral records in a single file</p>
+                            </div>
+                            <a href="cadastral_all.geojson" download class="btn btn-primary">
+                                <svg class="download-icon" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd" d="M3 17a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zm3.293-7.707a1 1 0 011.414 0L9 10.586V3a1 1 0 112 0v7.586l1.293-1.293a1 1 0 111.414 1.414l-3 3a1 1 0 01-1.414 0l-3-3a1 1 0 010-1.414z" clip-rule="evenodd"></path>
+                                </svg>
+                                Download
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- By Land Record Category -->
+        <div class="row mb-4">
+            <div class="col-12">
+                <h2 class="h4 mb-3">By Land Record Category</h2>
+                <div class="card file-card mb-3">
+                    <div class="card-body">
+                        <div class="d-flex justify-content-between align-items-center">
+                            <div>
+                                <h5 class="card-title mb-1">Unknown</h5>
+                                <p class="card-text text-muted mb-0">cadastral_land_record_category_type_unknown.geojson</p>
+                            </div>
+                            <a href="cadastral_by_land_record_category/cadastral_land_record_category_type_unknown.geojson" download class="btn btn-outline-primary">Download</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="card file-card mb-3">
+                    <div class="card-body">
+                        <div class="d-flex justify-content-between align-items-center">
+                            <div>
+                                <h5 class="card-title mb-1">Земли населенных пунктов</h5>
+                                <p class="card-text text-muted mb-0">cadastral_land_record_category_type_Земли_населенных_пунктов.geojson</p>
+                            </div>
+                            <a href="cadastral_by_land_record_category/cadastral_land_record_category_type_Земли_населенных_пунктов.geojson" download class="btn btn-outline-primary">Download</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- By Land Record Subtype -->
+        <div class="row mb-4">
+            <div class="col-12">
+                <h2 class="h4 mb-3">By Land Record Subtype</h2>
+                <div class="card file-card mb-3">
+                    <div class="card-body">
+                        <div class="d-flex justify-content-between align-items-center">
+                            <div>
+                                <h5 class="card-title mb-1">Землепользование</h5>
+                                <p class="card-text text-muted mb-0">cadastral_land_record_subtype_Землепользование.geojson</p>
+                            </div>
+                            <a href="cadastral_by_land_record_subtype/cadastral_land_record_subtype_Землепользование.geojson" download class="btn btn-outline-primary">Download</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="card file-card mb-3">
+                    <div class="card-body">
+                        <div class="d-flex justify-content-between align-items-center">
+                            <div>
+                                <h5 class="card-title mb-1">Многоконтурный участок</h5>
+                                <p class="card-text text-muted mb-0">cadastral_land_record_subtype_Многоконтурный_участок.geojson</p>
+                            </div>
+                            <a href="cadastral_by_land_record_subtype/cadastral_land_record_subtype_Многоконтурный_участок.geojson" download class="btn btn-outline-primary">Download</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="card file-card mb-3">
+                    <div class="card-body">
+                        <div class="d-flex justify-content-between align-items-center">
+                            <div>
+                                <h5 class="card-title mb-1">Условный участок</h5>
+                                <p class="card-text text-muted mb-0">cadastral_land_record_subtype_Условный_участок.geojson</p>
+                            </div>
+                            <a href="cadastral_by_land_record_subtype/cadastral_land_record_subtype_Условный_участок.geojson" download class="btn btn-outline-primary">Download</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- By Land Record Type -->
+        <div class="row mb-4">
+            <div class="col-12">
+                <h2 class="h4 mb-3">By Land Record Type</h2>
+                <div class="card file-card mb-3">
+                    <div class="card-body">
+                        <div class="d-flex justify-content-between align-items-center">
+                            <div>
+                                <h5 class="card-title mb-1">Земельный участок</h5>
+                                <p class="card-text text-muted mb-0">cadastral_land_record_type_Земельный_участок.geojson</p>
+                            </div>
+                            <a href="cadastral_by_land_record_type/cadastral_land_record_type_Земельный_участок.geojson" download class="btn btn-outline-primary">Download</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- By Load Status -->
+        <div class="row mb-4">
+            <div class="col-12">
+                <h2 class="h4 mb-3">By Load Status</h2>
+                <div class="card file-card mb-3">
+                    <div class="card-body">
+                        <div class="d-flex justify-content-between align-items-center">
+                            <div>
+                                <h5 class="card-title mb-1">SUCCESS</h5>
+                                <p class="card-text text-muted mb-0">cadastral_load_status_SUCCESS.geojson</p>
+                            </div>
+                            <a href="cadastral_by_load_status/cadastral_load_status_SUCCESS.geojson" download class="btn btn-outline-primary">Download</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- By Quarter -->
+        <div class="row mb-4">
+            <div class="col-12">
+                <h2 class="h4 mb-3">By Quarter</h2>
+                <div class="card file-card mb-3">
+                    <div class="card-body">
+                        <div class="d-flex justify-content-between align-items-center">
+                            <div>
+                                <h5 class="card-title mb-1">Quarter 130101</h5>
+                                <p class="card-text text-muted mb-0">cadastral_quarter_code_130101.geojson</p>
+                            </div>
+                            <a href="cadastral_by_quarter/cadastral_quarter_code_130101.geojson" download class="btn btn-outline-primary">Download</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="card file-card mb-3">
+                    <div class="card-body">
+                        <div class="d-flex justify-content-between align-items-center">
+                            <div>
+                                <h5 class="card-title mb-1">Quarter 130104</h5>
+                                <p class="card-text text-muted mb-0">cadastral_quarter_code_130104.geojson</p>
+                            </div>
+                            <a href="cadastral_by_quarter/cadastral_quarter_code_130104.geojson" download class="btn btn-outline-primary">Download</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- By Right Type -->
+        <div class="row mb-4">
+            <div class="col-12">
+                <h2 class="h4 mb-3">By Right Type</h2>
+                <div class="card file-card mb-3">
+                    <div class="card-body">
+                        <div class="d-flex justify-content-between align-items-center">
+                            <div>
+                                <h5 class="card-title mb-1">Null</h5>
+                                <p class="card-text text-muted mb-0">cadastral_right_type_null.geojson</p>
+                            </div>
+                            <a href="cadastral_by_right_type/cadastral_right_type_null.geojson" download class="btn btn-outline-primary">Download</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="card file-card mb-3">
+                    <div class="card-body">
+                        <div class="d-flex justify-content-between align-items-center">
+                            <div>
+                                <h5 class="card-title mb-1">Общая долевая собственность</h5>
+                                <p class="card-text text-muted mb-0">cadastral_right_type_Общая_долевая_собственность.geojson</p>
+                            </div>
+                            <a href="cadastral_by_right_type/cadastral_right_type_Общая_долевая_собственность.geojson" download class="btn btn-outline-primary">Download</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="card file-card mb-3">
+                    <div class="card-body">
+                        <div class="d-flex justify-content-between align-items-center">
+                            <div>
+                                <h5 class="card-title mb-1">Общая совместная собственность</h5>
+                                <p class="card-text text-muted mb-0">cadastral_right_type_Общая_совместная_собственность.geojson</p>
+                            </div>
+                            <a href="cadastral_by_right_type/cadastral_right_type_Общая_совместная_собственность.geojson" download class="btn btn-outline-primary">Download</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="card file-card mb-3">
+                    <div class="card-body">
+                        <div class="d-flex justify-content-between align-items-center">
+                            <div>
+                                <h5 class="card-title mb-1">Постоянное (бессрочное) пользование; Собственность</h5>
+                                <p class="card-text text-muted mb-0">cadastral_right_type_Постоянное_(бессрочное)_пользование;Собственность.geojson</p>
+                            </div>
+                            <a href="cadastral_by_right_type/cadastral_right_type_Постоянное_(бессрочное)_пользование;Собственность.geojson" download class="btn btn-outline-primary">Download</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="card file-card mb-3">
+                    <div class="card-body">
+                        <div class="d-flex justify-content-between align-items-center">
+                            <div>
+                                <h5 class="card-title mb-1">Собственность</h5>
+                                <p class="card-text text-muted mb-0">cadastral_right_type_Собственность.geojson</p>
+                            </div>
+                            <a href="cadastral_by_right_type/cadastral_right_type_Собственность.geojson" download class="btn btn-outline-primary">Download</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- By Status -->
+        <div class="row mb-4">
+            <div class="col-12">
+                <h2 class="h4 mb-3">By Status</h2>
+                <div class="card file-card mb-3">
+                    <div class="card-body">
+                        <div class="d-flex justify-content-between align-items-center">
+                            <div>
+                                <h5 class="card-title mb-1">Ранее учтенный</h5>
+                                <p class="card-text text-muted mb-0">cadastral_status_Ранее_учтенный.geojson</p>
+                            </div>
+                            <a href="cadastral_by_status/cadastral_status_Ранее_учтенный.geojson" download class="btn btn-outline-primary">Download</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="card file-card mb-3">
+                    <div class="card-body">
+                        <div class="d-flex justify-content-between align-items-center">
+                            <div>
+                                <h5 class="card-title mb-1">Учтенный</h5>
+                                <p class="card-text text-muted mb-0">cadastral_status_Учтенный.geojson</p>
+                            </div>
+                            <a href="cadastral_by_status/cadastral_status_Учтенный.geojson" download class="btn btn-outline-primary">Download</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <footer class="mt-5 pt-4 border-top text-center text-muted">
+            <p class="mb-0">GeoJSON Export Center</p>
+        </footer>
+    </div>
+</body>
+</html>
+

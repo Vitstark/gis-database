@@ -1,0 +1,1416 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              49.17221186234548,
+              55.80602169499767
+            ],
+            [
+              49.17226490187439,
+              55.80604786165426
+            ],
+            [
+              49.17206886232075,
+              55.80617095155673
+            ],
+            [
+              49.171562162114945,
+              55.80643073151022
+            ],
+            [
+              49.171308679018274,
+              55.8065462501982
+            ],
+            [
+              49.17107022062026,
+              55.80667172120783
+            ],
+            [
+              49.170762256720835,
+              55.80689633693285
+            ],
+            [
+              49.17040472667162,
+              55.80717678308841
+            ],
+            [
+              49.170203000455736,
+              55.80709105284139
+            ],
+            [
+              49.17020273817828,
+              55.80701614613127
+            ],
+            [
+              49.1702036900322,
+              55.807014708009426
+            ],
+            [
+              49.17038985453061,
+              55.80707431894704
+            ],
+            [
+              49.17046522322596,
+              55.80710091062489
+            ],
+            [
+              49.17066808140242,
+              55.80691853678167
+            ],
+            [
+              49.171022696986995,
+              55.8066721335768
+            ],
+            [
+              49.171234216261276,
+              55.806550285467516
+            ],
+            [
+              49.171568597509044,
+              55.806401533910254
+            ],
+            [
+              49.171630923980665,
+              55.806348023132784
+            ],
+            [
+              49.17193865202713,
+              55.806194450374306
+            ],
+            [
+              49.172136631667335,
+              55.80607863363692
+            ],
+            [
+              49.17221186234548,
+              55.80602169499767
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": 35340865,
+      "properties": {
+        "area": 644,
+        "cadastralDistrictsCode": 16,
+        "category": 36368,
+        "categoryName": "Земельные участки ЕГРН",
+        "code": 530,
+        "cost_value": 0,
+        "descr": "16:50:130101:530",
+        "externalKey": "16:50:130101:530",
+        "interactionId": 35311569,
+        "label": "16:50:130101:530",
+        "land_record_category_type": "",
+        "land_record_subtype": "Условный участок",
+        "land_record_type": "Земельный участок",
+        "load_status": "SUCCESS",
+        "options": {
+          "area": null,
+          "cad_num": "16:50:130101:530",
+          "common_data_status": "Ранее учтенный",
+          "cost_application_date": "2014-01-10",
+          "cost_approvement_date": "",
+          "cost_determination_date": "",
+          "cost_index": 0,
+          "cost_registration_date": "2024-11-26",
+          "cost_value": 0,
+          "declared_area": null,
+          "determination_couse": "",
+          "land_record_area": null,
+          "land_record_area_declaration": null,
+          "land_record_area_verified": 644,
+          "land_record_category_type": "",
+          "land_record_reg_date": "2006-12-28",
+          "land_record_subtype": "Условный участок",
+          "land_record_type": "Земельный участок",
+          "ownership_type": null,
+          "permitted_use_established_by_document": "",
+          "previously_posted": "Ранее учтенный",
+          "quarter_cad_number": "16:50:130101",
+          "readable_address": "-",
+          "registration_date": "2006-12-28",
+          "right_type": null,
+          "specified_area": 644,
+          "status": "Ранее учтенный",
+          "subtype": "Условный участок"
+        },
+        "permitted_use_established_by_document": "",
+        "quarter_code": 130101,
+        "right_type": null,
+        "status": "Ранее учтенный",
+        "subcategory": 1,
+        "systemInfo": {
+          "inserted": "2023-02-13T20:25:13.117227",
+          "insertedBy": "00000000-0000-0000-0000-000000000001",
+          "updated": "2025-02-05T12:13:11.181078",
+          "updatedBy": "MOD_EGRN_DATAFIX"
+        },
+        "update_date": "2025-12-21"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              [
+                49.169530815382736,
+                55.81355373535698
+              ],
+              [
+                49.1694563291243,
+                55.81291378557002
+              ],
+              [
+                49.16945056504492,
+                55.81290750478327
+              ],
+              [
+                49.16954507139234,
+                55.812884407367015
+              ],
+              [
+                49.169558052966224,
+                55.8129020868634
+              ],
+              [
+                49.16973116444043,
+                55.812870100391294
+              ],
+              [
+                49.169760331886025,
+                55.81286378095857
+              ],
+              [
+                49.16981500092027,
+                55.81303464116199
+              ],
+              [
+                49.169863346163105,
+                55.81303889881055
+              ],
+              [
+                49.16987441627808,
+                55.81310292568356
+              ],
+              [
+                49.169888473028465,
+                55.81320000170261
+              ],
+              [
+                49.16965800689334,
+                55.81320609488551
+              ],
+              [
+                49.16972196399999,
+                55.81334173679732
+              ],
+              [
+                49.169622780521216,
+                55.813350379069604
+              ],
+              [
+                49.16970314912419,
+                55.81343516672784
+              ],
+              [
+                49.16967478377486,
+                55.81348863889699
+              ],
+              [
+                49.169647369441336,
+                55.81354040349475
+              ],
+              [
+                49.16954587563757,
+                55.81352704322864
+              ],
+              [
+                49.169530815382736,
+                55.81355373535698
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                49.16935097749504,
+                55.81279974514922
+              ],
+              [
+                49.16889595508625,
+                55.812307154035764
+              ],
+              [
+                49.16909685595495,
+                55.81228609549467
+              ],
+              [
+                49.16911578022243,
+                55.812315714083944
+              ],
+              [
+                49.16919164114197,
+                55.81243535584407
+              ],
+              [
+                49.1695355691387,
+                55.8124004867522
+              ],
+              [
+                49.16961709331608,
+                55.81240560599419
+              ],
+              [
+                49.169622073300836,
+                55.812415749748766
+              ],
+              [
+                49.169714279634604,
+                55.812602376195194
+              ],
+              [
+                49.16979179420171,
+                55.81264674955356
+              ],
+              [
+                49.16975103580128,
+                55.81266817098935
+              ],
+              [
+                49.16978127551312,
+                55.812694902823736
+              ],
+              [
+                49.16956230181916,
+                55.8127482265669
+              ],
+              [
+                49.16935097749504,
+                55.81279974514922
+              ]
+            ]
+          ]
+        ],
+        "type": "MultiPolygon"
+      },
+      "id": 35318095,
+      "properties": {
+        "area": 2675,
+        "cadastralDistrictsCode": 16,
+        "category": 36368,
+        "categoryName": "Земельные участки ЕГРН",
+        "code": 524,
+        "cost_value": 0,
+        "descr": "16:50:130101:524",
+        "externalKey": "16:50:130101:524",
+        "interactionId": 35288799,
+        "label": "16:50:130101:524",
+        "land_record_category_type": "",
+        "land_record_subtype": "Условный участок",
+        "land_record_type": "Земельный участок",
+        "load_status": "SUCCESS",
+        "options": {
+          "area": null,
+          "cad_num": "16:50:130101:524",
+          "common_data_status": "Ранее учтенный",
+          "cost_application_date": "2014-01-10",
+          "cost_approvement_date": "",
+          "cost_determination_date": "",
+          "cost_index": 0,
+          "cost_registration_date": "2024-11-26",
+          "cost_value": 0,
+          "declared_area": null,
+          "determination_couse": "",
+          "land_record_area": null,
+          "land_record_area_declaration": null,
+          "land_record_area_verified": 2680,
+          "land_record_category_type": "",
+          "land_record_reg_date": "2006-12-27",
+          "land_record_subtype": "Условный участок",
+          "land_record_type": "Земельный участок",
+          "ownership_type": null,
+          "permitted_use_established_by_document": "",
+          "previously_posted": "Ранее учтенный",
+          "quarter_cad_number": "16:50:130101",
+          "readable_address": "-",
+          "registration_date": "2006-12-27",
+          "right_type": null,
+          "specified_area": 2675,
+          "status": "Ранее учтенный",
+          "subtype": "Условный участок"
+        },
+        "permitted_use_established_by_document": "",
+        "quarter_code": 130101,
+        "right_type": null,
+        "status": "Ранее учтенный",
+        "subcategory": 1,
+        "systemInfo": {
+          "inserted": "2023-02-13T20:19:25.25606",
+          "insertedBy": "00000000-0000-0000-0000-000000000001",
+          "updated": "2025-09-18T21:50:56.617785",
+          "updatedBy": "064EDE2E-1DAA-4758-B509-34BC38C4AA5D"
+        },
+        "update_date": "2025-12-21"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              49.16978410385779,
+              55.80688044843665
+            ],
+            [
+              49.16964855699648,
+              55.806975354889715
+            ],
+            [
+              49.169386539973345,
+              55.80707013141671
+            ],
+            [
+              49.16918644784991,
+              55.80694900997871
+            ],
+            [
+              49.16888293363665,
+              55.807080835583925
+            ],
+            [
+              49.16911821604293,
+              55.80718611103651
+            ],
+            [
+              49.16887884992613,
+              55.80728292730075
+            ],
+            [
+              49.16883359041983,
+              55.807246601367105
+            ],
+            [
+              49.16873979652111,
+              55.807287391342136
+            ],
+            [
+              49.16864801939777,
+              55.807219770463604
+            ],
+            [
+              49.16819864671363,
+              55.807465013079145
+            ],
+            [
+              49.168179689718755,
+              55.80751748667989
+            ],
+            [
+              49.16814263487243,
+              55.807547885205196
+            ],
+            [
+              49.16761115215478,
+              55.80733802522775
+            ],
+            [
+              49.164942338083854,
+              55.803824136306964
+            ],
+            [
+              49.16513062852671,
+              55.80381172004824
+            ],
+            [
+              49.16524076562904,
+              55.80346437128024
+            ],
+            [
+              49.165573030472544,
+              55.80330387223669
+            ],
+            [
+              49.166143221262786,
+              55.80328592452751
+            ],
+            [
+              49.16707696126002,
+              55.803071780006604
+            ],
+            [
+              49.16750703581048,
+              55.802791893088084
+            ],
+            [
+              49.16842889166555,
+              55.80357435625548
+            ],
+            [
+              49.16959388660157,
+              55.80419352674711
+            ],
+            [
+              49.170688744452114,
+              55.804720163455116
+            ],
+            [
+              49.17192382897677,
+              55.80525220140465
+            ],
+            [
+              49.172498128269595,
+              55.805395620023766
+            ],
+            [
+              49.172550520284524,
+              55.80541927242653
+            ],
+            [
+              49.172978444263116,
+              55.80561252263192
+            ],
+            [
+              49.172267925233065,
+              55.80604597209809
+            ],
+            [
+              49.17226490187439,
+              55.80604786165426
+            ],
+            [
+              49.17221186234548,
+              55.80602169499767
+            ],
+            [
+              49.172136631667335,
+              55.80607863363692
+            ],
+            [
+              49.17193865202713,
+              55.806194450374306
+            ],
+            [
+              49.171630923980665,
+              55.806348023132784
+            ],
+            [
+              49.171568597509044,
+              55.806401533910254
+            ],
+            [
+              49.171234216261276,
+              55.806550285467516
+            ],
+            [
+              49.171022696986995,
+              55.8066721335768
+            ],
+            [
+              49.17066808140242,
+              55.80691853678167
+            ],
+            [
+              49.17046522322596,
+              55.80710091062489
+            ],
+            [
+              49.17038985453061,
+              55.80707431894704
+            ],
+            [
+              49.1702036900322,
+              55.807014708009426
+            ],
+            [
+              49.16978410385779,
+              55.80688044843665
+            ]
+          ],
+          [
+            [
+              49.16760651141924,
+              55.80728701448822
+            ],
+            [
+              49.16764807550848,
+              55.80731571049366
+            ],
+            [
+              49.16769839222827,
+              55.80729248298272
+            ],
+            [
+              49.167656509471506,
+              55.80726387715798
+            ],
+            [
+              49.16760651141924,
+              55.80728701448822
+            ]
+          ],
+          [
+            [
+              49.16660695476114,
+              55.805954054147314
+            ],
+            [
+              49.16665762513741,
+              55.8059413352114
+            ],
+            [
+              49.16663488115713,
+              55.80591252869621
+            ],
+            [
+              49.16658421081083,
+              55.8059252476228
+            ],
+            [
+              49.16660695476114,
+              55.805954054147314
+            ]
+          ],
+          [
+            [
+              49.16551827995679,
+              55.8045143891298
+            ],
+            [
+              49.16554372995987,
+              55.80454220497203
+            ],
+            [
+              49.1655923211725,
+              55.804528141452835
+            ],
+            [
+              49.16556703061464,
+              55.80450032544949
+            ],
+            [
+              49.16551827995679,
+              55.8045143891298
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": 35353438,
+      "properties": {
+        "area": 130522,
+        "cadastralDistrictsCode": 16,
+        "category": 36368,
+        "categoryName": "Земельные участки ЕГРН",
+        "code": 7,
+        "cost_value": 0,
+        "descr": "16:50:130104:7",
+        "externalKey": "16:50:130104:7",
+        "interactionId": 35324143,
+        "label": "16:50:130104:7",
+        "land_record_category_type": "",
+        "land_record_subtype": "Условный участок",
+        "land_record_type": "Земельный участок",
+        "load_status": "SUCCESS",
+        "options": {
+          "area": null,
+          "cad_num": "16:50:130104:7",
+          "common_data_status": "Ранее учтенный",
+          "cost_application_date": "2014-01-10",
+          "cost_approvement_date": "",
+          "cost_determination_date": "",
+          "cost_index": 0,
+          "cost_registration_date": "2024-11-26",
+          "cost_value": 0,
+          "declared_area": null,
+          "determination_couse": "",
+          "land_record_area": null,
+          "land_record_area_declaration": null,
+          "land_record_area_verified": 130522,
+          "land_record_category_type": "",
+          "land_record_reg_date": "2006-12-28",
+          "land_record_subtype": "Условный участок",
+          "land_record_type": "Земельный участок",
+          "ownership_type": null,
+          "permitted_use_established_by_document": "",
+          "previously_posted": "Ранее учтенный",
+          "quarter_cad_number": "16:50:130104",
+          "readable_address": "-",
+          "registration_date": "2006-12-28",
+          "right_type": null,
+          "specified_area": 130522,
+          "status": "Ранее учтенный",
+          "subtype": "Условный участок"
+        },
+        "permitted_use_established_by_document": "",
+        "quarter_code": 130104,
+        "right_type": null,
+        "status": "Ранее учтенный",
+        "subcategory": 1,
+        "systemInfo": {
+          "inserted": "2023-02-13T20:28:13.66108",
+          "insertedBy": "00000000-0000-0000-0000-000000000001",
+          "updated": "2025-02-05T12:13:51.406919",
+          "updatedBy": "MOD_EGRN_DATAFIX"
+        },
+        "update_date": "2025-12-21"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              49.16954353517495,
+              55.80978915337403
+            ],
+            [
+              49.16952730850566,
+              55.80989263992106
+            ],
+            [
+              49.16952783384943,
+              55.80999763483485
+            ],
+            [
+              49.169317201668896,
+              55.80996876685546
+            ],
+            [
+              49.169217001594085,
+              55.8101413250497
+            ],
+            [
+              49.169233196134854,
+              55.810395308256204
+            ],
+            [
+              49.16914973132052,
+              55.81056488398503
+            ],
+            [
+              49.16921569450711,
+              55.810866415065746
+            ],
+            [
+              49.169277042725135,
+              55.81098724041309
+            ],
+            [
+              49.16880427604399,
+              55.81107488293334
+            ],
+            [
+              49.16884052981095,
+              55.811180646902784
+            ],
+            [
+              49.16890372467503,
+              55.811282249671855
+            ],
+            [
+              49.16894428381528,
+              55.81138755978941
+            ],
+            [
+              49.16898525091005,
+              55.811472481101625
+            ],
+            [
+              49.16887828085449,
+              55.81148813703389
+            ],
+            [
+              49.168561087529696,
+              55.81150312552718
+            ],
+            [
+              49.168519682635186,
+              55.81023074073145
+            ],
+            [
+              49.16948094699948,
+              55.809815718395726
+            ],
+            [
+              49.16954353517495,
+              55.80978915337403
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": 35358615,
+      "properties": {
+        "area": 5904,
+        "cadastralDistrictsCode": 16,
+        "category": 36368,
+        "categoryName": "Земельные участки ЕГРН",
+        "code": 526,
+        "cost_value": 0,
+        "descr": "16:50:130101:526",
+        "externalKey": "16:50:130101:526",
+        "interactionId": 35329318,
+        "label": "16:50:130101:526",
+        "land_record_category_type": "",
+        "land_record_subtype": "Условный участок",
+        "land_record_type": "Земельный участок",
+        "load_status": "SUCCESS",
+        "options": {
+          "area": null,
+          "cad_num": "16:50:130101:526",
+          "common_data_status": "Ранее учтенный",
+          "cost_application_date": "2014-01-10",
+          "cost_approvement_date": "",
+          "cost_determination_date": "",
+          "cost_index": 0,
+          "cost_registration_date": "2024-11-26",
+          "cost_value": 0,
+          "declared_area": null,
+          "determination_couse": "",
+          "land_record_area": null,
+          "land_record_area_declaration": null,
+          "land_record_area_verified": 5904,
+          "land_record_category_type": "",
+          "land_record_reg_date": "2006-12-28",
+          "land_record_subtype": "Условный участок",
+          "land_record_type": "Земельный участок",
+          "ownership_type": null,
+          "permitted_use_established_by_document": "",
+          "previously_posted": "Ранее учтенный",
+          "quarter_cad_number": "16:50:130101",
+          "readable_address": "-",
+          "registration_date": "2006-12-28",
+          "right_type": null,
+          "specified_area": 5904,
+          "status": "Ранее учтенный",
+          "subtype": "Условный участок"
+        },
+        "permitted_use_established_by_document": "",
+        "quarter_code": 130101,
+        "right_type": null,
+        "status": "Ранее учтенный",
+        "subcategory": 1,
+        "systemInfo": {
+          "inserted": "2023-02-13T20:29:27.824407",
+          "insertedBy": "00000000-0000-0000-0000-000000000001",
+          "updated": "2025-02-05T12:14:08.266139",
+          "updatedBy": "MOD_EGRN_DATAFIX"
+        },
+        "update_date": "2025-12-21"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              49.16957469395399,
+              55.81392373063576
+            ],
+            [
+              49.16963934905683,
+              55.81393910758307
+            ],
+            [
+              49.16971741333664,
+              55.813957433602866
+            ],
+            [
+              49.170196017043786,
+              55.81406962274673
+            ],
+            [
+              49.17034483666015,
+              55.81411409618541
+            ],
+            [
+              49.1703021488356,
+              55.81417701513984
+            ],
+            [
+              49.170232322391534,
+              55.81427930382532
+            ],
+            [
+              49.17016345013204,
+              55.81438087287845
+            ],
+            [
+              49.170033833582806,
+              55.81453666858665
+            ],
+            [
+              49.1701322222296,
+              55.81434569949572
+            ],
+            [
+              49.169599688775385,
+              55.814138633758915
+            ],
+            [
+              49.16957469395399,
+              55.81392373063576
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": 35315907,
+      "properties": {
+        "area": 1250,
+        "cadastralDistrictsCode": 16,
+        "category": 36368,
+        "categoryName": "Земельные участки ЕГРН",
+        "code": 523,
+        "cost_value": 0,
+        "descr": "16:50:130101:523",
+        "externalKey": "16:50:130101:523",
+        "interactionId": 35286611,
+        "label": "16:50:130101:523",
+        "land_record_category_type": "",
+        "land_record_subtype": "Условный участок",
+        "land_record_type": "Земельный участок",
+        "load_status": "SUCCESS",
+        "options": {
+          "area": null,
+          "cad_num": "16:50:130101:523",
+          "common_data_status": "Ранее учтенный",
+          "cost_application_date": "2014-01-10",
+          "cost_approvement_date": "",
+          "cost_determination_date": "",
+          "cost_index": 0,
+          "cost_registration_date": "2024-11-26",
+          "cost_value": 0,
+          "declared_area": null,
+          "determination_couse": "",
+          "land_record_area": null,
+          "land_record_area_declaration": null,
+          "land_record_area_verified": 1250,
+          "land_record_category_type": "",
+          "land_record_reg_date": "2006-12-27",
+          "land_record_subtype": "Условный участок",
+          "land_record_type": "Земельный участок",
+          "ownership_type": null,
+          "permitted_use_established_by_document": "",
+          "previously_posted": "Ранее учтенный",
+          "quarter_cad_number": "16:50:130101",
+          "readable_address": "-",
+          "registration_date": "2006-12-27",
+          "right_type": null,
+          "specified_area": 1250,
+          "status": "Ранее учтенный",
+          "subtype": "Условный участок"
+        },
+        "permitted_use_established_by_document": "",
+        "quarter_code": 130101,
+        "right_type": null,
+        "status": "Ранее учтенный",
+        "subcategory": 1,
+        "systemInfo": {
+          "inserted": "2023-02-13T20:18:49.290768",
+          "insertedBy": "00000000-0000-0000-0000-000000000001",
+          "updated": "2025-02-05T12:11:46.142707",
+          "updatedBy": "MOD_EGRN_DATAFIX"
+        },
+        "update_date": "2025-12-21"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              49.170832818661886,
+              55.80941022299233
+            ],
+            [
+              49.17076991393888,
+              55.80943705847513
+            ],
+            [
+              49.17072052457256,
+              55.80963363206923
+            ],
+            [
+              49.17065734095487,
+              55.80962660697946
+            ],
+            [
+              49.17060404733725,
+              55.809710824417344
+            ],
+            [
+              49.1704384159244,
+              55.8096885546508
+            ],
+            [
+              49.170039388144055,
+              55.80960376201657
+            ],
+            [
+              49.170832818661886,
+              55.80941022299233
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": 35356660,
+      "properties": {
+        "area": 698,
+        "cadastralDistrictsCode": 16,
+        "category": 36368,
+        "categoryName": "Земельные участки ЕГРН",
+        "code": 528,
+        "cost_value": 0,
+        "descr": "16:50:130101:528",
+        "externalKey": "16:50:130101:528",
+        "interactionId": 35327365,
+        "label": "16:50:130101:528",
+        "land_record_category_type": "",
+        "land_record_subtype": "Условный участок",
+        "land_record_type": "Земельный участок",
+        "load_status": "SUCCESS",
+        "options": {
+          "area": null,
+          "cad_num": "16:50:130101:528",
+          "common_data_status": "Ранее учтенный",
+          "cost_application_date": "2014-01-10",
+          "cost_approvement_date": "",
+          "cost_determination_date": "",
+          "cost_index": 0,
+          "cost_registration_date": "2024-11-26",
+          "cost_value": 0,
+          "declared_area": null,
+          "determination_couse": "",
+          "land_record_area": null,
+          "land_record_area_declaration": null,
+          "land_record_area_verified": 698,
+          "land_record_category_type": "",
+          "land_record_reg_date": "2006-12-28",
+          "land_record_subtype": "Условный участок",
+          "land_record_type": "Земельный участок",
+          "ownership_type": null,
+          "permitted_use_established_by_document": "",
+          "previously_posted": "Ранее учтенный",
+          "quarter_cad_number": "16:50:130101",
+          "readable_address": "-",
+          "registration_date": "2006-12-28",
+          "right_type": null,
+          "specified_area": 698,
+          "status": "Ранее учтенный",
+          "subtype": "Условный участок"
+        },
+        "permitted_use_established_by_document": "",
+        "quarter_code": 130101,
+        "right_type": null,
+        "status": "Ранее учтенный",
+        "subcategory": 1,
+        "systemInfo": {
+          "inserted": "2023-02-13T20:28:58.598737",
+          "insertedBy": "00000000-0000-0000-0000-000000000001",
+          "updated": "2025-02-05T12:14:01.674087",
+          "updatedBy": "MOD_EGRN_DATAFIX"
+        },
+        "update_date": "2025-12-21"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              49.16814263487243,
+              55.807547885205196
+            ],
+            [
+              49.16817984951158,
+              55.807517576321615
+            ],
+            [
+              49.16857836928345,
+              55.80769335971232
+            ],
+            [
+              49.168636015031865,
+              55.80766805799635
+            ],
+            [
+              49.16904136535171,
+              55.80783494054905
+            ],
+            [
+              49.169054092287006,
+              55.807825765248445
+            ],
+            [
+              49.169384379012456,
+              55.8079613833336
+            ],
+            [
+              49.16942114494543,
+              55.80798559320768
+            ],
+            [
+              49.169829645529,
+              55.80813926664919
+            ],
+            [
+              49.17003479505228,
+              55.80829046995036
+            ],
+            [
+              49.17027406289755,
+              55.808528846850976
+            ],
+            [
+              49.17030956062952,
+              55.80855494401399
+            ],
+            [
+              49.17027153195892,
+              55.80862585151125
+            ],
+            [
+              49.17046895898894,
+              55.80889310560593
+            ],
+            [
+              49.17068619922104,
+              55.809169947662255
+            ],
+            [
+              49.1708315875345,
+              55.80937762097088
+            ],
+            [
+              49.1708576619247,
+              55.809399596925516
+            ],
+            [
+              49.170832818661886,
+              55.80941022299233
+            ],
+            [
+              49.1697704195097,
+              55.80821441884679
+            ],
+            [
+              49.16814263487243,
+              55.807547885205196
+            ]
+          ],
+          [
+            [
+              49.169728329001316,
+              55.808172700746795
+            ],
+            [
+              49.16978119306343,
+              55.80819392875097
+            ],
+            [
+              49.169820159504454,
+              55.80816307853533
+            ],
+            [
+              49.1697669768054,
+              55.80814194071708
+            ],
+            [
+              49.169728329001316,
+              55.808172700746795
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": 35355047,
+      "properties": {
+        "area": 1931,
+        "cadastralDistrictsCode": 16,
+        "category": 36368,
+        "categoryName": "Земельные участки ЕГРН",
+        "code": 529,
+        "cost_value": 0,
+        "descr": "16:50:130101:529",
+        "externalKey": "16:50:130101:529",
+        "interactionId": 35325751,
+        "label": "16:50:130101:529",
+        "land_record_category_type": "",
+        "land_record_subtype": "Условный участок",
+        "land_record_type": "Земельный участок",
+        "load_status": "SUCCESS",
+        "options": {
+          "area": null,
+          "cad_num": "16:50:130101:529",
+          "common_data_status": "Ранее учтенный",
+          "cost_application_date": "2014-01-10",
+          "cost_approvement_date": "",
+          "cost_determination_date": "",
+          "cost_index": 0,
+          "cost_registration_date": "2024-11-26",
+          "cost_value": 0,
+          "declared_area": null,
+          "determination_couse": "",
+          "land_record_area": null,
+          "land_record_area_declaration": null,
+          "land_record_area_verified": 1931,
+          "land_record_category_type": "",
+          "land_record_reg_date": "2006-12-28",
+          "land_record_subtype": "Условный участок",
+          "land_record_type": "Земельный участок",
+          "ownership_type": null,
+          "permitted_use_established_by_document": "",
+          "previously_posted": "Ранее учтенный",
+          "quarter_cad_number": "16:50:130101",
+          "readable_address": "-",
+          "registration_date": "2006-12-28",
+          "right_type": null,
+          "specified_area": 1931,
+          "status": "Ранее учтенный",
+          "subtype": "Условный участок"
+        },
+        "permitted_use_established_by_document": "",
+        "quarter_code": 130101,
+        "right_type": null,
+        "status": "Ранее учтенный",
+        "subcategory": 1,
+        "systemInfo": {
+          "inserted": "2023-02-13T20:28:35.81252",
+          "insertedBy": "00000000-0000-0000-0000-000000000001",
+          "updated": "2025-02-05T12:13:56.338374",
+          "updatedBy": "MOD_EGRN_DATAFIX"
+        },
+        "update_date": "2025-12-21"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              49.16989612670959,
+              55.80963867982299
+            ],
+            [
+              49.16993117222452,
+              55.80958079915488
+            ],
+            [
+              49.169902104259236,
+              55.80979746878735
+            ],
+            [
+              49.16969180283892,
+              55.80972602805758
+            ],
+            [
+              49.16989612670959,
+              55.80963867982299
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": 35353456,
+      "properties": {
+        "area": 136,
+        "cadastralDistrictsCode": 16,
+        "category": 36368,
+        "categoryName": "Земельные участки ЕГРН",
+        "code": 527,
+        "cost_value": 0,
+        "descr": "16:50:130101:527",
+        "externalKey": "16:50:130101:527",
+        "interactionId": 35324160,
+        "label": "16:50:130101:527",
+        "land_record_category_type": "",
+        "land_record_subtype": "Условный участок",
+        "land_record_type": "Земельный участок",
+        "load_status": "SUCCESS",
+        "options": {
+          "area": null,
+          "cad_num": "16:50:130101:527",
+          "common_data_status": "Ранее учтенный",
+          "cost_application_date": "2014-01-10",
+          "cost_approvement_date": "",
+          "cost_determination_date": "",
+          "cost_index": 0,
+          "cost_registration_date": "2024-11-26",
+          "cost_value": 0,
+          "declared_area": null,
+          "determination_couse": "",
+          "land_record_area": null,
+          "land_record_area_declaration": null,
+          "land_record_area_verified": 136,
+          "land_record_category_type": "",
+          "land_record_reg_date": "2006-12-28",
+          "land_record_subtype": "Условный участок",
+          "land_record_type": "Земельный участок",
+          "ownership_type": null,
+          "permitted_use_established_by_document": "",
+          "previously_posted": "Ранее учтенный",
+          "quarter_cad_number": "16:50:130101",
+          "readable_address": "-",
+          "registration_date": "2006-12-28",
+          "right_type": null,
+          "specified_area": 136,
+          "status": "Ранее учтенный",
+          "subtype": "Условный участок"
+        },
+        "permitted_use_established_by_document": "",
+        "quarter_code": 130101,
+        "right_type": null,
+        "status": "Ранее учтенный",
+        "subcategory": 1,
+        "systemInfo": {
+          "inserted": "2023-02-13T20:28:13.89809",
+          "insertedBy": "00000000-0000-0000-0000-000000000001",
+          "updated": "2025-02-05T12:13:51.465041",
+          "updatedBy": "MOD_EGRN_DATAFIX"
+        },
+        "update_date": "2025-12-21"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              49.168561799175805,
+              55.81152441125234
+            ],
+            [
+              49.16878341457225,
+              55.81172868003697
+            ],
+            [
+              49.169055154907994,
+              55.81171454937825
+            ],
+            [
+              49.16909591043676,
+              55.81173839567758
+            ],
+            [
+              49.169070698582495,
+              55.81182716212449
+            ],
+            [
+              49.169161454433805,
+              55.81182706214576
+            ],
+            [
+              49.169261456109,
+              55.81210062270324
+            ],
+            [
+              49.169233566728494,
+              55.81210738969199
+            ],
+            [
+              49.16924030734167,
+              55.81211932785066
+            ],
+            [
+              49.16886637958506,
+              55.81219572432061
+            ],
+            [
+              49.16888092759369,
+              55.81225130471824
+            ],
+            [
+              49.16886022004637,
+              55.8122133351217
+            ],
+            [
+              49.16856305924176,
+              55.811565905083725
+            ],
+            [
+              49.168561799175805,
+              55.81152441125234
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": 35318082,
+      "properties": {
+        "area": 1484,
+        "cadastralDistrictsCode": 16,
+        "category": 36368,
+        "categoryName": "Земельные участки ЕГРН",
+        "code": 525,
+        "cost_value": 0,
+        "descr": "16:50:130101:525",
+        "externalKey": "16:50:130101:525",
+        "interactionId": 35288786,
+        "label": "16:50:130101:525",
+        "land_record_category_type": "",
+        "land_record_subtype": "Условный участок",
+        "land_record_type": "Земельный участок",
+        "load_status": "SUCCESS",
+        "options": {
+          "area": null,
+          "cad_num": "16:50:130101:525",
+          "common_data_status": "Ранее учтенный",
+          "cost_application_date": "2014-01-10",
+          "cost_approvement_date": "",
+          "cost_determination_date": "",
+          "cost_index": 0,
+          "cost_registration_date": "2024-11-26",
+          "cost_value": 0,
+          "declared_area": null,
+          "determination_couse": "",
+          "land_record_area": null,
+          "land_record_area_declaration": null,
+          "land_record_area_verified": 1484,
+          "land_record_category_type": "",
+          "land_record_reg_date": "2006-12-28",
+          "land_record_subtype": "Условный участок",
+          "land_record_type": "Земельный участок",
+          "ownership_type": null,
+          "permitted_use_established_by_document": "",
+          "previously_posted": "Ранее учтенный",
+          "quarter_cad_number": "16:50:130101",
+          "readable_address": "-",
+          "registration_date": "2006-12-28",
+          "right_type": null,
+          "specified_area": 1484,
+          "status": "Ранее учтенный",
+          "subtype": "Условный участок"
+        },
+        "permitted_use_established_by_document": "",
+        "quarter_code": 130101,
+        "right_type": null,
+        "status": "Ранее учтенный",
+        "subcategory": 1,
+        "systemInfo": {
+          "inserted": "2023-02-13T20:19:25.012253",
+          "insertedBy": "00000000-0000-0000-0000-000000000001",
+          "updated": "2025-02-05T12:11:53.880568",
+          "updatedBy": "MOD_EGRN_DATAFIX"
+        },
+        "update_date": "2025-12-21"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

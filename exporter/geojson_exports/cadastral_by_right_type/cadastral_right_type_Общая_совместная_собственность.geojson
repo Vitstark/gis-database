@@ -1,0 +1,191 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              49.173869159760535,
+              55.81028197021836
+            ],
+            [
+              49.173351412220065,
+              55.809918263754106
+            ],
+            [
+              49.173372977214555,
+              55.80992758016964
+            ],
+            [
+              49.173580009125985,
+              55.80984130053516
+            ],
+            [
+              49.17409800915261,
+              55.810186234104
+            ],
+            [
+              49.173893840348605,
+              55.810270535376624
+            ],
+            [
+              49.173869159760535,
+              55.81028197021836
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": 55034400,
+      "properties": {
+        "area": 0,
+        "cadastralDistrictsCode": 16,
+        "category": 36368,
+        "categoryName": "Земельные участки ЕГРН",
+        "code": 1513,
+        "cost_value": 948490.21,
+        "descr": "16:50:130101:1513",
+        "externalKey": "16:50:130101:1513",
+        "interactionId": 55005076,
+        "label": "16:50:130101:1513",
+        "land_record_category_type": "Земли населенных пунктов",
+        "land_record_subtype": "Землепользование",
+        "land_record_type": "Земельный участок",
+        "load_status": "SUCCESS",
+        "options": {
+          "area": null,
+          "cad_num": "16:50:130101:1513",
+          "common_data_status": "Учтенный",
+          "cost_application_date": "2024-01-01",
+          "cost_approvement_date": "",
+          "cost_determination_date": "2022-01-01",
+          "cost_index": 1097.79,
+          "cost_registration_date": "2024-02-09",
+          "cost_value": 948490.21,
+          "declared_area": null,
+          "determination_couse": "Акт бюджетного учреждения, созданного субъектом Российской Федерации, об определении кадастровой стоимости в соответствии со статьей 16 Закона 237-ФЗ",
+          "land_record_area": null,
+          "land_record_area_declaration": null,
+          "land_record_area_verified": 864,
+          "land_record_category_type": "Земли населенных пунктов",
+          "land_record_reg_date": "2023-04-19",
+          "land_record_subtype": "Землепользование",
+          "land_record_type": "Земельный участок",
+          "ownership_type": "Частная",
+          "permitted_use_established_by_document": "садоводство",
+          "previously_posted": "Учтенный",
+          "quarter_cad_number": "16:50:130101",
+          "readable_address": "Российская Федерация, Республика Татарстан, МО \" г Казань\", г Казань, Советский район, снт \"Светоч\"",
+          "registration_date": "2023-04-19",
+          "right_type": "Общая совместная собственность",
+          "specified_area": 864,
+          "status": "Учтенный",
+          "subtype": "Землепользование"
+        },
+        "permitted_use_established_by_document": "садоводство",
+        "quarter_code": 130101,
+        "right_type": "Общая совместная собственность",
+        "status": "Учтенный",
+        "subcategory": 5,
+        "systemInfo": {
+          "inserted": "2023-04-19T20:26:18.599726",
+          "insertedBy": "00000000-0000-0000-0000-000000000001",
+          "updated": "2025-02-05T14:10:23.634756",
+          "updatedBy": "MOD_EGRN_DATAFIX"
+        },
+        "update_date": "2025-12-21"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              49.17225725407167,
+              55.807575560056385
+            ],
+            [
+              49.17240495415678,
+              55.80740132901186
+            ],
+            [
+              49.17284780804226,
+              55.80743738381932
+            ],
+            [
+              49.1726271842076,
+              55.80764475032619
+            ],
+            [
+              49.17225725407167,
+              55.807575560056385
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": 38734500,
+      "properties": {
+        "area": 609,
+        "cadastralDistrictsCode": 16,
+        "category": 36368,
+        "categoryName": "Земельные участки ЕГРН",
+        "code": 260,
+        "cost_value": 706920.81,
+        "descr": "16:50:130101:260",
+        "externalKey": "16:50:130101:260",
+        "interactionId": 38705204,
+        "label": "16:50:130101:260",
+        "land_record_category_type": "Земли населенных пунктов",
+        "land_record_subtype": "Землепользование",
+        "land_record_type": "Земельный участок",
+        "load_status": "SUCCESS",
+        "options": {
+          "area": null,
+          "cad_num": "16:50:130101:260",
+          "common_data_status": "Ранее учтенный",
+          "cost_application_date": "2024-01-01",
+          "cost_approvement_date": "",
+          "cost_determination_date": "2022-01-01",
+          "cost_index": 1160.7895,
+          "cost_registration_date": "2023-02-05",
+          "cost_value": 706920.81,
+          "declared_area": null,
+          "determination_couse": "Акт об утверждении результатов определения кадастровой стоимости, полученных в соответствии с положениями Закона 237-ФЗ\n\n\n",
+          "land_record_area": null,
+          "land_record_area_declaration": null,
+          "land_record_area_verified": 609,
+          "land_record_category_type": "Земли населенных пунктов",
+          "land_record_reg_date": "1999-09-01",
+          "land_record_subtype": "Землепользование",
+          "land_record_type": "Земельный участок",
+          "ownership_type": "Частная",
+          "permitted_use_established_by_document": "Ведение садоводства",
+          "previously_posted": "Ранее учтенный",
+          "quarter_cad_number": "16:50:130101",
+          "readable_address": "Республика Татарстан, МО \"г Казань\", г Казань, Советский район, с/т Дружба 1, участок 63",
+          "registration_date": "1999-09-01",
+          "right_type": "Общая совместная собственность",
+          "specified_area": 609,
+          "status": "Ранее учтенный",
+          "subtype": "Землепользование"
+        },
+        "permitted_use_established_by_document": "Ведение садоводства",
+        "quarter_code": 130101,
+        "right_type": "Общая совместная собственность",
+        "status": "Ранее учтенный",
+        "subcategory": 5,
+        "systemInfo": {
+          "inserted": "2023-02-14T09:22:55.506834",
+          "insertedBy": "00000000-0000-0000-0000-000000000001",
+          "updated": "2025-02-05T13:24:58.803284",
+          "updatedBy": "MOD_EGRN_DATAFIX"
+        },
+        "update_date": "2025-12-21"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}
