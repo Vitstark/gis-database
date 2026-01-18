@@ -6,7 +6,7 @@ Content-Disposition: form-data; name="file"; filename="file.csv"
 Content-Disposition: form-data; name="file"; filename="file.csv"
 Content-Type: text/csv
 
-< ./file.csv
+< ./file2.csv
 --boundary--
 
 ###
